@@ -3,7 +3,7 @@ import asyncio
 import threading
 import requests, time
 
-URL        = "http://192.168.1.13:8080/"  
+URL        = "YOUR Phyphox Server"  
 BUFFER     = "illum"                   
 INTERVAL   = 0.3
 THRESH_LUX = 200
